@@ -6,7 +6,6 @@ theme-darcula
 matplotlib>=3.4.3
 seaborn>=0.11.2
 ipywidgets>=7.6.5
-tensorboard==2.14.1
 tabulate>=0.8.9
 tqdm>=4.62.3
 
